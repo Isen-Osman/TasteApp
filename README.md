@@ -22,11 +22,15 @@ Users can browse categories, view meals within categories, open detailed recipes
 
 ## 🖼️ Screenshots
 
+
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f01262cc-7c1c-49cc-9c96-91d4c6041443" width="200" />
-  <img src="https://github.com/user-attachments/assets/3ce72c12-683b-4c88-9027-be3b316425a3" width="200" />
-  <img src="https://github.com/user-attachments/assets/8751d18b-3b10-4d89-a739-efc02ee9565e" width="200" />
-  <img src="https://github.com/user-attachments/assets/c82550da-182f-45fd-affd-63deedf6ea1b" width="200" />
+  <img src="https://github.com/user-attachments/assets/f01262cc-7c1c-49cc-9c96-91d4c6041443" width="180" />
+  <img src="https://github.com/user-attachments/assets/3ce72c12-683b-4c88-9027-be3b316425a3" width="180" />
+  <img src="https://github.com/user-attachments/assets/8751d18b-3b10-4d89-a739-efc02ee9565e" width="180" />
+  <img src="https://github.com/user-attachments/assets/c82550da-182f-45fd-affd-63deedf6ea1b" width="180" />
+  <img src="https://github.com/user-attachments/assets/8785a96e-c86e-48b8-ba12-14c35d027896" width="180" />
+  <img src="https://github.com/user-attachments/assets/1b9002f5-b60a-4a1b-bfb4-b200bb42e4a1" width="180" />
 </p>
 
 
