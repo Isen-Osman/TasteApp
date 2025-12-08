@@ -35,7 +35,8 @@ Users can browse categories, view meals within categories, open detailed recipes
 
 ---
 
-## Lab 3  Firebase, favorite meal and local notifications
+## 🍽️ Lab 3: Firebase, Favorite meal ❤️ & Local Notifications 🔔
+
 
 
 <p align="center">
