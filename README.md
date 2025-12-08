@@ -33,5 +33,19 @@ Users can browse categories, view meals within categories, open detailed recipes
   <img src="https://github.com/user-attachments/assets/1b9002f5-b60a-4a1b-bfb4-b200bb42e4a1" width="180" />
 </p>
 
+---
+
+## Lab 3  Firebase, favorite meal and local notifications
 
 
+<p align="center">
+<img width="180" height="2532" alt="Simulator Screenshot - iPhone 16e - 2025-12-08 at 17 39 32" src="https://github.com/user-attachments/assets/465de1c4-143c-4cf3-8608-f64f04bd07cb" />
+<img width="180" height="2532" alt="Simulator Screenshot - iPhone 16e - 2025-12-08 at 17 39 25" src="https://github.com/user-attachments/assets/b053ee0c-ee47-43d7-9725-1d9f0741c9b0" />
+<img width="180" height="2532" alt="Simulator Screenshot - iPhone 16e - 2025-12-08 at 17 39 03" src="https://github.com/user-attachments/assets/67d52960-5423-4fbf-835e-e0347e5c357e" />
+<img width="180" height="2532" alt="Simulator Screenshot - iPhone 16e - 2025-12-08 at 17 39 00" src="https://github.com/user-attachments/assets/3a217cf9-2c2f-4f73-a19c-35d1b83a500c" />
+  <img width="180" height="2532" alt="Simulator Screenshot - iPhone 16e - 2025-12-08 at 17 39 25" src="https://github.com/user-attachments/assets/54cefab3-a741-4112-b334-3e307af182f2" />
+
+  
+</p>
+
+---
