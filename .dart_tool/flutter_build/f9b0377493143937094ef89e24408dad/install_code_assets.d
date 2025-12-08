@@ -1,0 +1,1 @@
+ /Users/isendev/Development/projects/TasteApp/.dart_tool/flutter_build/f9b0377493143937094ef89e24408dad/native_assets.json: 
