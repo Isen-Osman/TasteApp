@@ -43,9 +43,7 @@ Users can browse categories, view meals within categories, open detailed recipes
 <img width="180" height="2532" alt="Simulator Screenshot - iPhone 16e - 2025-12-08 at 17 39 25" src="https://github.com/user-attachments/assets/b053ee0c-ee47-43d7-9725-1d9f0741c9b0" />
 <img width="180" height="2532" alt="Simulator Screenshot - iPhone 16e - 2025-12-08 at 17 39 03" src="https://github.com/user-attachments/assets/67d52960-5423-4fbf-835e-e0347e5c357e" />
 <img width="180" height="2532" alt="Simulator Screenshot - iPhone 16e - 2025-12-08 at 17 39 00" src="https://github.com/user-attachments/assets/3a217cf9-2c2f-4f73-a19c-35d1b83a500c" />
-  <img width="180" height="2532" alt="Simulator Screenshot - iPhone 16e - 2025-12-08 at 17 39 25" src="https://github.com/user-attachments/assets/54cefab
-    <img width="180" height="2532" alt="Simulator Screenshot - iPhone 16e - 2025-12-08 at 18 11 44" src="https://github.com/user-attachments/assets/27b7d7eb-a23a-49fb-a4fe-5864d4f1e0e5" />
-3-a741-4112-b334-3e307af182f2" />
+<img width="180" height="2532" alt="Simulator Screenshot - iPhone 16e - 2025-12-08 at 18 11 44" src="https://github.com/user-attachments/assets/2ed89a02-ff3a-4524-a818-7acd5b4786aa" />
 
   
 </p>
